@@ -6,16 +6,16 @@ const initialState = {
   taom: false,
   data: [
     {
-      ism: "Davron Mamarayimov",
+      ism: "Aziz Karimov",
       taom: "Osh",
-      narxi: "20000",
+      narxi: "35000",
       soni: 2,
-      umumiy_narx: 40000,
+      umumiy_narx: 70000,
       telefon_raqam: "+998999374996",
       izoh: "lorem ipsum",
     },
     {
-      ism: "Azim Nuriddinov",
+      ism: "Muhammad Ali Fozilov",
       taom: "Manti",
       narxi: "10000",
       soni: 12,
@@ -53,16 +53,16 @@ const initialState = {
   ],
   data1: [
     {
-      ism: "Davron Mamarayimov",
+      ism: "Aziz Karimov",
       taom: "Osh",
-      narxi: "20000",
+      narxi: "35000",
       soni: 2,
-      umumiy_narx: 40000,
+      umumiy_narx: 70000,
       telefon_raqam: "+998999374996",
       izoh: "lorem ipsum",
     },
     {
-      ism: "Azim Nuriddinov",
+      ism: "Muhammad Ali Fozilov",
       taom: "Manti",
       narxi: "10000",
       soni: 12,
