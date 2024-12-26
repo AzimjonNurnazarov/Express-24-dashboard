@@ -75,7 +75,7 @@ export default function DashboardTemplate({ children }) {
             <Link className="user">
               <i class="bi bi-person-circle"></i>
             </Link>
-            <h5>Davron</h5>
+            <h5>Azim</h5>
           </div>
         </header>
         <main className="m-1 p-3">{children}</main>
